@@ -1,0 +1,1 @@
+ C:\\Users\\rosha\\AndroidStudioProjects\\FoodCart\\.dart_tool\\flutter_build\\c9bed8b097841dd9989a2430957a9c12\\native_assets.yaml: 
